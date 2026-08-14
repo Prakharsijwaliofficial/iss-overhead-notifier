@@ -8,7 +8,7 @@ MY_LAT = 29.209503  # Your latitude
 MY_LONG = 79.504435  # Your longitude
 
 MY_EMAIL = os.environ["MY_EMAIL"]
-PASSWORD = os.environ["MY_PASSWORD"]
+PASSWORD = os.environ["EMAIL_PASSWORD"]
 
 
 # If the ISS is close to my current position
